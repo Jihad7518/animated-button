@@ -11,6 +11,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
+
+.btn-pink {
+    background-color: #e84949;
+    width: fit-content;
+    color: white;
+  }
 
