@@ -41,3 +41,9 @@
     transform-origin: left;
     transition: all 0.8s;
   }
+
+.btn-pink:hover::before {
+    transform: scaleX(1);
+  }
+
+
